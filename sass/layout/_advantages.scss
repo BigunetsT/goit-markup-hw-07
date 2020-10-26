@@ -7,7 +7,7 @@
 }
 
 .advantages-item {
-  flex-basis: calc ((100%-4 * 30)/4);
+  flex-basis: calc ((100% - 4 * 30)/4);
 
   &:not(:last-child) {
     margin-right: 30px;

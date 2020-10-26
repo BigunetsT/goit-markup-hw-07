@@ -1,4 +1,3 @@
-@charset "UTF-8";
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -229,7 +228,7 @@ body {
   fill: #2196f3;
 }
 
-/* Стили формы в модальном окне */
+/* Modal-form's styles */
 .form {
   text-align: center;
 }
@@ -398,7 +397,7 @@ body {
 }
 
 .nav-item:last-child {
-  margin-right: 0px;
+  margin-right: 0;
 }
 
 .icon {
@@ -703,7 +702,6 @@ footer {
   margin-bottom: 20px;
 }
 
-/* стили формы подписки на рассылку в футере */
 .footer-div-form {
   margin-left: auto;
 }
